@@ -50,6 +50,9 @@ DESCRIPTION
 EXAMPLES
   $ sfdx force:apex:class:create -n MyClass
   $ sfdx force:apex:class:create -n MyClass -d classes
+  $ sfdx force:apex:class:create -n MyClass -d classes -t ApexException
+  $ sfdx force:apex:class:create -n MyClass -d classes -t ApexUnitTest
+  $ sfdx force:apex:class:create -n MyClass -d classes -t InboundEmailService
 ```
 
 
