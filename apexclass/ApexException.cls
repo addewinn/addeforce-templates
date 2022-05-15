@@ -6,7 +6,6 @@
 * 
 *          SFKB: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm  
 */
-public class <%= apiName %> extends Exception 
-{
+public class <%= apiName %> extends Exception {
     // TO DO
 }
