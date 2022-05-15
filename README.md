@@ -7,6 +7,7 @@ From your SFDX project in VSCode, open a terminal and run the following command:
 ```
 sfdx config:set customOrgMetadataTemplates=https://github.com/addewinn/addeforce-templates
 ```
+See (CLI Configuration Options)[https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_dev_cli_config_values.htm] for additional configuration options.
 
 ## Example Usage
 From your project, click ctrl + shift + p then select SFDX: Create Apex Class
