@@ -1,3 +1,3 @@
 import { LightningElement } from 'lwc';
 
-export default class DefaultClass extends LightningElement {}
+export default class <%= pascalCaseComponentName %> extends LightningElement {}
